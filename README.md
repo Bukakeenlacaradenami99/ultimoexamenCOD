@@ -88,7 +88,10 @@ Una vez está subido el javadoc (debemos llamarlo docs al subirlo) hacemos lo si
 Imagenes del diagrama de flujo y diagrama de clases:
 
 1. Diagrama de clases
-[diagrama de clases](file:///C:/Users/crm23/OneDrive/Imágenes/ejercicio COD futbol.drawio.png)
-[diagrama de flujo](file:///C:/Users/crm23/OneDrive/Imágenes/diagrama de flujo Futbol.drawio.png)
+![ejercicio COD futbol drawio](https://github.com/Bukakeenlacaradenami99/ultimoexamenCOD/assets/145834795/2d6f77c1-fbf9-4715-a9d9-625a6b0defb4)
+
+2. Diagrama de flujo
+![diagrama de flujo Futbol drawio](https://github.com/Bukakeenlacaradenami99/ultimoexamenCOD/assets/145834795/1dd9374a-39ff-45c5-a75d-1508243c2600)
+
 
 
